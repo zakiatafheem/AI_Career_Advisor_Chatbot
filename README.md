@@ -132,6 +132,15 @@ Protecting API keys using environment variables.
 - Improved understanding of Generative AI application development.
 
 ---
+## Hugging Face Deployment Link
+
+🔗 Add your deployed Hugging Face application link here:
+
+```text
+https://huggingface.co/spaces/ZakiaTafheem/AI_Career_Advisor_Chatbot
+```
+
+---
 
 ---
 
